@@ -1,6 +1,6 @@
-# Atividade CFE - Loja LH Games
+# Loja LB Games
 
-Este é um projeto de estudo de Front-End, criando uma interface para uma loja de jogos simulada chamada "LB Games" (ou "LH Games"). O projeto utiliza HTML, CSS (com Bootstrap) e JavaScript (incluindo jQuery).
+Este é um projeto de estudo de Front-End, criando uma interface para uma loja de jogos simulada chamada "LB Games". O projeto utiliza HTML, CSS (com Bootstrap) e JavaScript (incluindo jQuery).
 
 ## Estrutura do Projeto
 - `index.html`: Página inicial com banners, promoções e produtos em destaque.
